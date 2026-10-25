@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BlateSMP.aternos.me",
-    "port": 31619,
+    "ip": "blatesmp.mcsh.gg",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
